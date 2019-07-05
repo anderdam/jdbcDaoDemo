@@ -11,5 +11,4 @@ public interface SellerDao {
 	void deleteById(Seller id);
 	Seller findById(Seller id);
 	List<Seller>findAll();
-
 }
